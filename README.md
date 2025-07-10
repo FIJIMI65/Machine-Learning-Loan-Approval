@@ -3,6 +3,8 @@
 
 This project is a data science initiative to develop a predictive model that determines the likelihood of loan approval based on applicant demographics, financial attributes, and loan-specific features. It aims to assist microfinance institutions in making smarter, data-driven lending decisions, improving approval accuracy, reducing default risk, and promoting financial inclusion.
 
+### Click here for more [![More Details badge](https://img.shields.io/badge/Click-Here-brightgreen.svg)](./Machine_Learning_Loan_Approval.ipynb)
+
 ## 🧠 Project Summary
 
 Microfinance institutions face challenges in assessing loan applicants due to outdated processes. This project introduces a machine learning-based decision-support tool that predicts loan approval outcomes. By leveraging historical data and state-of-the-art algorithms, the model aims to:
